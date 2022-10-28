@@ -19,7 +19,7 @@ root olarak 7'yi seçeriz.
 --9 değeri 7'den büyük olduğu için 7'nin sağ tarafına gider. 8 değerinden büyük olduğu için 8'in sağına yazılır.
 
 --4 değeri 7'den küçük olduğu için 7'nin sağ tarafına gider. 5 değerinden de küçük olduğu için 5'in sol tarafına gider. 1 değerindenden büyük olduğu için 1'in sağ 
-tarafına gider. 3 değerinden büyük olduğu için 3!ün sağ tarafına yazılır.
+tarafına gider. 3 değerinden büyük olduğu için 3'ün sağ tarafına yazılır.
 
 --2 değeri 7'den küçük olduğu için 7'nin sağ tarafına gider. 5 değerinden de küçük olduğu için 5'in sol tarafına gider. 1 değerindenden büyük olduğu için 1'in sağ tarafına gider. 3 değerinden küçük olduğu için 3'ün sol tarafına yazılır.
 
