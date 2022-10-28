@@ -22,3 +22,5 @@ root olarak 7'yi seçeriz.
 tarafına gider. 3 değerinden büyük olduğu için 3!ün sağ tarafına yazılır.
 
 --2 değeri 7'den küçük olduğu için 7'nin sağ tarafına gider. 5 değerinden de küçük olduğu için 5'in sol tarafına gider. 1 değerindenden büyük olduğu için 1'in sağ tarafına gider. 3 değerinden küçük olduğu için 3'ün sol tarafına yazılır.
+
+[Patika.dev](https://www.patika.dev/tr)
